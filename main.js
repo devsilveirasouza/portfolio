@@ -10,5 +10,7 @@ function ativarLetra(elemento) {
 }
 
 const titulo = document.querySelector('.digitando');
+const descricao = document.querySelector('.descricao');
 
 ativarLetra(titulo);
+ativarLetra(descricao);
